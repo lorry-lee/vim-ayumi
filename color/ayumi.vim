@@ -394,7 +394,7 @@ hi Comment         guifg=#008000
 hi CursorLine                    guibg=#c0d990
 hi CursorColumn                  guibg=#293739
 hi LineNr          guifg=#707070
-hi NonText         guifg=#000000 guibg=#D4D0C8 
+hi NonText         guifg=#000000 guibg=Gray
 
 hi LongLineWarning guifg=#960050 guibg=#1e0010 gui=underline
 
