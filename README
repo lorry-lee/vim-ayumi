@@ -1,0 +1,15 @@
+*ayumi.vim* A color scheme for vim. The color style just like my favorite
+            singer ayumi-hamasiki. It also support colors defined by
+            HighlightTag plugin like bandit.vim.
+
+Author:     lorry.lee <lorry.le@gmail.com>
+
+Copyright:  (c) 2009-2011 by A. S. Budden             *ayumi-copyright*
+            Permission is hereby granted to use and distribute this code,
+            with or without modifications, provided that this copyright
+            notice is copied with it. Like anything else that's free,
+            the ayumi plugin is provided *as is* and comes with no
+            warranty of any kind, either expressed or implied. By using
+            this plugin, you agree that in no event will the copyright
+            holder be liable for any damages resulting from the use
+            of this software.
