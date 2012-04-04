@@ -344,7 +344,7 @@ hi SpecialKey      guifg=#d3fe36
 hi MatchParen      guifg=#000000 guibg=#fd971f gui=bold
 hi ModeMsg         guifg=#e6db74
 hi MoreMsg         guifg=#e6db74
-hi Operator        guifg=#6d8fd9
+hi Operator        guifg=#5d6fc9
 
 " complete menu
 hi Pmenu           guifg=#ffffff guibg=#707072
@@ -389,7 +389,7 @@ hi Visual          guifg=#FFFFFF guibg=#000080
 hi WarningMsg      guifg=#888A85 gui=bold
 hi WildMenu        guifg=#66d9ef guibg=#000000
 
-hi Normal          guifg=#000000 guibg=#D4D0C0
+hi Normal          guifg=#776600 guibg=#D4D0C0
 hi Comment         guifg=#008000
 hi CursorLine                    guibg=#c0d990
 hi CursorColumn                  guibg=#293739
