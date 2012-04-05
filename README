@@ -13,3 +13,15 @@ Copyright:  (c) 2012-2013 by lorry.lee             *ayumi-copyright*
             this plugin, you agree that in no event will the copyright
             holder be liable for any damages resulting from the use
             of this software.
+
+Description:
+            The screenshot file:
+            https://github.com/lorry-lee/vim-ayumi/blob/master/screenshot/ayumi.jpg
+
+            I use HighlightTag plugin to parse c functions.
+
+            If you are writing use c you may notice I use plugin
+            cSyntaxAfter to display the operators. But the color of
+            _Block is written in cSyntaxAfter plugin, so I change
+            cSyntaxAfter to match _Block "{}" as _Bracket because
+            it's too light to see it.
