@@ -389,7 +389,7 @@ hi Visual          guifg=#FFFFFF guibg=#000080
 hi WarningMsg      guifg=#888A85 gui=bold
 hi WildMenu        guifg=#66d9ef guibg=#000000
 
-hi Normal          guifg=#776600 guibg=#D4D0C0
+hi Normal          guifg=#000000 guibg=#D4D0C0
 hi Comment         guifg=#008000
 hi CursorLine                    guibg=#c0d990
 hi CursorColumn                  guibg=#293739
