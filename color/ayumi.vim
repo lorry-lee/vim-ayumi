@@ -310,7 +310,7 @@ hi link javaParen2 hlLevel2
 
 
 hi Boolean         guifg=#ae81ff               gui=bold
-hi Character       guifg=#e6db74
+hi Character       guifg=#249677
 hi Number          guifg=#FF0000
 hi String          guifg=#008080
 hi Conditional     guifg=#6d8fd9               gui=bold
@@ -371,8 +371,8 @@ if has("spell")
 endif
 hi Statement       guifg=#0000FF 
 hi htmlStatement   guifg=#99b5d9
-hi StatusLine      guifg=#E0E0E0 guibg=#707070 gui=bold
-hi StatusLineNC    guifg=#E0E0E0 guibg=#909090
+hi StatusLine      guifg=#E0E0E0 guibg=#0080f0 gui=bold
+hi StatusLineNC    guifg=#E0E0E0 guibg=#004080
 hi StorageClass    guifg=#fd971f               
 hi Structure       guifg=darkblue
 hi Tag             guifg=#f92672               
@@ -383,7 +383,7 @@ hi Typedef         guifg=#66d9ef
 hi Type            guifg=#0000FF               gui=none
 hi Underlined      guifg=#808080               gui=underline
 
-hi VertSplit       guifg=#909090 guibg=#909090 gui=bold
+hi VertSplit       guifg=#004080 guibg=#004080 gui=bold
 hi VisualNOS                     guibg=#403d3d
 hi Visual          guifg=#FFFFFF guibg=#000080
 hi WarningMsg      guifg=#888A85 gui=bold
