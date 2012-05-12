@@ -64,13 +64,13 @@ let ColourAssignment['Method']          = {"GUIFG": '#009966',     "CTERMFG": 'C
 
 " Special additions created by mktypes.py are shades of Purple or Grey
 let ColourAssignment['Class']           = {"GUIFG": '#0080f0',      "TERM":  'Underline'}
-let ColourAssignment['DefinedName']     = {"GUIFG": '#ee82ee',     "TERM":    'Underline'}
+let ColourAssignment['DefinedName']     = {"GUIFG": '#883299',     "TERM":    'Underline'}
 let ColourAssignment['EnumerationValue']= {"GUIFG": '#c000c0'}
 let ColourAssignment['EnumerationName'] = {"GUIFG": '#ff22ff',     "TERM":  'Underline'}
-let ColourAssignment['Member']          = {"GUIFG": '#776600',    "TERM":    'Underline'}
+let ColourAssignment['Member']          = {"GUIFG": '#25344b',    "TERM":    'Underline'}
 let ColourAssignment['Union']           = {"GUIFG": 'Grey',        "TERM":    'Underline'}
-let ColourAssignment['GlobalVariable']  = {"GUIFG": '#666600',     "CTERMFG": 'Cyan',      "TERM":  'Underline'}
-let ColourAssignment['LocalVariable']   = {"GUIFG": '#333333',     "CTERMFG": 'Cyan'}
+let ColourAssignment['GlobalVariable']  = {"GUIFG": '#693b35',     "CTERMFG": 'Cyan',      "TERM":  'Underline'}
+let ColourAssignment['LocalVariable']   = {"GUIFG": '#da977c',     "CTERMFG": 'Cyan'}
 let ColourAssignment['GlobalConstant']  = {"GUIFG": '#bbbb00',     "CTERMFG": 'Yellow',      "TERM":  'Underline'}
 
 " Types/storage classes etc are shades of orangey-red
@@ -380,10 +380,10 @@ hi Title           guifg=#202020
 hi Todo            guifg=#FF0000               gui=UNDERLINE
 
 hi Typedef         guifg=#66d9ef
-hi Type            guifg=#0000FF               gui=none
+hi Type            guifg=#3a29ff               gui=none
 hi Underlined      guifg=#808080               gui=underline
 
-hi VertSplit       guifg=#004080 guibg=#004080 gui=bold
+hi VertSplit       guifg=#0080f0 guibg=#D4D0C0 gui=bold
 hi VisualNOS                     guibg=#403d3d
 hi Visual          guifg=#FFFFFF guibg=#000080
 hi WarningMsg      guifg=#888A85 gui=bold
