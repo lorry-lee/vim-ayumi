@@ -1,4 +1,3 @@
-
 " vim: tw=0 ts=4 sw=4 noet ft=colours_bandit foldmethod=diff
 " Vim colour file
 " Maintainer:	A. S. Budden
@@ -327,7 +326,7 @@ hi DiffText                      guibg=#4c4745 gui=bold
 hi Directory       guifg=#838300
 hi Error           guifg=#FF0000 guibg=#FFFFFF gui=UNDERLINE
 hi ErrorMsg        guifg=#f92672 guibg=#232526 gui=bold
-hi Exception       guifg=#a6e22E               gui=bold
+hi Exception       guifg=#AE92EE               gui=bold
 hi Float           guifg=#ae81fF
 hi FoldColumn      guifg=#465457 guibg=#000000
 hi Folded          guifg=#707070 guibg=#E0E0E0
