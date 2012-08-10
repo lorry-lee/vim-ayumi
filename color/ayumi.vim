@@ -341,7 +341,7 @@ hi Macro           guifg=#A000E0               gui=bold
 hi SpecialKey      guifg=#d3fe36               
 
 hi MatchParen      guifg=#000000 guibg=#fd971f gui=bold
-hi ModeMsg         guifg=#e6db74
+hi ModeMsg         guifg=#563895
 hi MoreMsg         guifg=#e6db74
 hi Operator        guifg=#5d6fc9
 
