@@ -2,7 +2,7 @@
             singer ayumi-hamasiki. It also support colors defined by
             HighlightTag plugin like bandit.vim.
 
-Author:     lorry.lee <llee.sixs@gmail.com>
+Author:     lorry.lee <lorry.le@gmail.com>
 
 Copyright:  (c) 2012-2013 by lorry.lee             *ayumi-copyright*
             Permission is hereby granted to use and distribute this code,
@@ -27,12 +27,4 @@ Description:
             _Block is written in cSyntaxAfter plugin, so I change
             cSyntaxAfter to match _Block "{}" as _Bracket because
             it's too light to see it.
-
-            yang.zou@ubisoft.com
-            JACKY6951861
-            CHENGDU
-
-            hao-zheng.jin@ubisoft.com
-            lixu1234
-            冒邑
-
+            
